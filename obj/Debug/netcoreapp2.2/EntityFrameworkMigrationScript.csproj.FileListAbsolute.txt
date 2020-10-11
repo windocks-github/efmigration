@@ -1,0 +1,11 @@
+C:\Windocks\EFMigration\bin\Debug\netcoreapp2.2\EntityFrameworkMigrationScript.deps.json
+C:\Windocks\EFMigration\bin\Debug\netcoreapp2.2\EntityFrameworkMigrationScript.runtimeconfig.json
+C:\Windocks\EFMigration\bin\Debug\netcoreapp2.2\EntityFrameworkMigrationScript.runtimeconfig.dev.json
+C:\Windocks\EFMigration\bin\Debug\netcoreapp2.2\EntityFrameworkMigrationScript.dll
+C:\Windocks\EFMigration\bin\Debug\netcoreapp2.2\EntityFrameworkMigrationScript.pdb
+C:\Windocks\EFMigration\obj\Debug\netcoreapp2.2\EntityFrameworkMigrationScript.csproj.CoreCompileInputs.cache
+C:\Windocks\EFMigration\obj\Debug\netcoreapp2.2\EntityFrameworkMigrationScript.AssemblyInfoInputs.cache
+C:\Windocks\EFMigration\obj\Debug\netcoreapp2.2\EntityFrameworkMigrationScript.AssemblyInfo.cs
+C:\Windocks\EFMigration\obj\Debug\netcoreapp2.2\EntityFrameworkMigrationScript.dll
+C:\Windocks\EFMigration\obj\Debug\netcoreapp2.2\EntityFrameworkMigrationScript.pdb
+C:\Windocks\EFMigration\obj\Debug\netcoreapp2.2\EntityFrameworkMigrationScript.csprojAssemblyReference.cache
